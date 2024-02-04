@@ -1,3 +1,5 @@
+fullnameOverride: supabase
+
 jwt:
   secretName: "supabase-jwt"
 
